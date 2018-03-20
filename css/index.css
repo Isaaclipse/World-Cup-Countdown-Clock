@@ -1,0 +1,16 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+nav{
+    display: inline-block;
+}
+
+body{
+    background-color: #388E8E;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
