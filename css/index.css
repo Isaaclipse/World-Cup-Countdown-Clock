@@ -7,6 +7,10 @@
     height: 7%;
 }
 
+a{
+	text-decoration: none;
+}
+
 body{
     background-color: #388E8E;
 }
