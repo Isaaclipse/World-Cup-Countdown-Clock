@@ -1,10 +1,12 @@
+*{
+	font-family: 'Lato', sans-serif;
+}
+
 body{
-	background-color: #14A082;
+	background-color: #388E8E;
 }
 
 h1{
 	color: white;
-	font-family: helvetica, sans-serif;
-	font-size: 60px;
 	text-align: center;
 }
