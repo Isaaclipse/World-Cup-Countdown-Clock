@@ -2,6 +2,10 @@
 	font-family: 'Lato', sans-serif;
 }
 
+nav{
+	display: inline-block;
+}
+
 body{
 	background-color: #388E8E;
 }
