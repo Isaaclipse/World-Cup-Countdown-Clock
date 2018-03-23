@@ -1,0 +1,22 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+#fifa-wc-trophy{
+    width: 7%;
+    height: 7%;
+}
+
+a{
+	text-decoration: none;
+}
+
+body{
+    background-color: #388E8E;
+}
+
+#title{
+    color: white;
+    text-align: center;
+    display: inline;
+}
