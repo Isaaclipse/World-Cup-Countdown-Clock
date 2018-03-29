@@ -28,6 +28,7 @@ body{
 }
 
 #winners{
+    padding-top: 20px;
     color: #000000;
     text-align: center;
 }
@@ -35,13 +36,14 @@ body{
 .winner{
 	width: 25%;
     height: 25%;
-    margin: 20px;
+    margin: 40px;
 }
 
 .flex-container{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 h2{
