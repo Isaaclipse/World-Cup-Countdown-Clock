@@ -32,24 +32,19 @@ body{
     text-align: center;
 }
 
-ol > img{
+.winner{
 	width: 25%;
-	display: block;
-	margin-left: auto;
-    margin-right: auto;
+    height: 25%;
+    margin: 20px;
 }
 
-.uruguay:hover{
-    background-image: url('../images/winners/uruguay.png');
-    width: 25%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
-li{
-	list-style-type: none;
+h2{
 	color: #D52B1E;
-	font-size: 2em;
-	padding-left: 15%;
+	/*font-size: 2em;*/
 }
