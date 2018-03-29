@@ -7,22 +7,28 @@
     height: 7%;
 }
 
+nav{
+    padding-top: 120px;
+    padding-right: 30px;
+    float: right;
+}
+
 a{
 	text-decoration: none;
 }
 
 body{
-    background-color: #388E8E;
+    background-color: #FFFFFF;
 }
 
 #title{
-    color: white;
-    text-align: center;
+    font-size: 3em;
+    color: #0039A6;
     display: inline;
 }
 
 #winners{
-    color: white;
+    color: #000000;
     text-align: center;
 }
 
@@ -33,9 +39,17 @@ ol > img{
     margin-right: auto;
 }
 
+.uruguay:hover{
+    background-image: url('../images/winners/uruguay.png');
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 li{
 	list-style-type: none;
-	color: white;
+	color: #D52B1E;
 	font-size: 2em;
 	padding-left: 15%;
 }
