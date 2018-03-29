@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: #388E8E;
+    background-color: white;
 }
 
 nav {
@@ -22,4 +22,13 @@ nav {
 
 .nav-buttons > a:hover {
     background-color: lightblue;
+}
+
+h1 {
+    color: black;
+}
+
+
+h2 {
+    color: red;
 }
