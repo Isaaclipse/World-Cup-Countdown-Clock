@@ -28,6 +28,7 @@ body{
 }
 
 #winners{
+    position: relative;
     padding-top: 20px;
     color: #000000;
     text-align: center;
