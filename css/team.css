@@ -46,40 +46,41 @@ li a:hover {
     background-color: #D52B1E;
 }
 
-/*#title{
-    font-size: 3em;
-    color: #0039A6;
-    display: inline;
-}*/
-
-#winners{
-    position: relative;
-    padding-top: 20px;
-    font-size: 3em;
-    color: #333333;
-    text-align: center;
+.team-header{
+	color: #333333;
+	text-align: center;
+	font-size: 3em;
 }
 
-.winner{
-	width: 25%;
-    height: 25%;
-    margin: 40px;
+.name{
+	color: #0039A6;
+}
+
+.profile-pic{
+	padding: 0;
+	margin: 0;
+	width: 70%;
+    margin: 20px;
 }
 
 .flex-container{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     justify-content: center;
 }
 
-h2{
-	color: #D52B1E;
-	/*font-size: 2em;*/
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  text-align: center;
+}
+
+.bio{
+	padding: 15px;
 }
 
 .footer{
-    /*position: absolute;*/
     right: 0;
     bottom: 0;
     left: 0;
