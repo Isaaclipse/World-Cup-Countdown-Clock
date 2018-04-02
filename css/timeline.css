@@ -16,10 +16,6 @@ body{
     height: 25%;
 }
 
-a{
-	text-decoration: none;
-}
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -79,4 +75,25 @@ li a:hover {
 h2{
 	color: #D52B1E;
 	/*font-size: 2em;*/
+}
+
+.footer{
+    /*position: absolute;*/
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+}
+
+.footer p a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.footer p a:hover{
+    text-decoration: none;
+    color: #D52B1E;
 }
