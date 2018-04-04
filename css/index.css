@@ -22,7 +22,11 @@ a{
     text-align: center;
     font-family: sans-serif;
     font-weight: 100;
-    margin: 0 auto;
+    padding-top: 50px;
+}
+
+#count-down--caption {
+    color: black;
 }
 
 h1{
@@ -59,4 +63,9 @@ h1{
     padding-top: 5px;
     font-size: 24px;
     
+}
+
+.twitter-section {
+/*    margin: 0 auto;
+*/    text-align: center;
 }
