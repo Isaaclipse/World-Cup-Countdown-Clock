@@ -66,6 +66,24 @@ h1{
 }
 
 .twitter-section {
-/*    margin: 0 auto;
-*/    text-align: center;
+    text-align: center;
 }
+.instagram-section {
+    /*display: block;*/
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 25px;
+    height: 500px;
+}
+
+.instagram-section ul {
+    list-style-type: none;
+    margin: 0 auto;
+}
+
+.instagram-section ul li { 
+    width: 320px;
+    float: left;
+    margin-right: 30px;
+}
+
