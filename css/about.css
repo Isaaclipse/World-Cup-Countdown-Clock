@@ -5,11 +5,14 @@
     max-height: 300px;
 }
 
-
 h1, h2 {
     color: #333333;
 }
 
 h1 {
     text-align: center;
+}
+
+hr {
+    width: 80%;
 }
