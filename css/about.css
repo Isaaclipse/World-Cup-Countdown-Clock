@@ -16,3 +16,15 @@ h1 {
 hr {
     width: 80%;
 }
+
+td > h3{
+	text-align: center;
+}
+
+.winners-count{
+    height: 20%;
+}
+
+.center{
+	text-align: center;
+}
