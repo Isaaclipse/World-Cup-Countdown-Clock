@@ -24,6 +24,7 @@
     flex-direction: row;
     /*flex-wrap: wrap;*/
     justify-content: center;
+    padding-bottom: 50px;
 }
 
 .flex-container > div {
@@ -34,5 +35,14 @@
 
 .bio{
 	padding: 15px;
+}
+
+.media-links{
+  color: #333333;
+  padding-bottom: 30px;
+}
+
+.media-links:hover{
+  color: #D52B1E;
 }
 
