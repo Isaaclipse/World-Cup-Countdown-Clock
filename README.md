@@ -18,4 +18,4 @@ Our static webpage was built entirely out of HTML, CSS, and Javascript.
 
 ## Preview 
 
-![Uploading _Users_alex_Sites_project-1-yurrrrr_views_index.html (1).png…]()
+![site](https://user-images.githubusercontent.com/23161228/38527358-48e73506-3c28-11e8-8fa8-e368d5b6b059.png)
