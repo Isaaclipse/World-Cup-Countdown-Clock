@@ -67,3 +67,16 @@ nav ul li a:hover {
     text-decoration: none;
     color: #D52B1E;
 }
+
+/* 
+***************************************
+*************MEDIA QUIERES*************
+***************************************
+*/
+
+@media screen and (max-width: 960px) {
+    nav ul li {
+        float: none;
+        width: 100%;
+    }
+}
