@@ -8,7 +8,7 @@ World Cup Countdown site created by:
 * [Jordan](https://github.com/j-falcon122)
 * [Isaac](https://github.com/Isaaclipse)
 
-See the list of contributors who participated in this project [here](https://github.com/your/project/contributors).
+See the list of contributors who participated in this project [here](https://github.com/lehman-webdev/project-1-yurrrrr/graphs/contributors).
 
 👨‍🎓👨‍🎓👨‍🎓  
 
