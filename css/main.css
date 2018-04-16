@@ -15,6 +15,7 @@ body{
 #fifa-wc-trophy{
     width: 20%;
     height: 20%;
+    min-width: 250px; min-height: 100px;
 }
 
 nav ul {
@@ -67,3 +68,11 @@ nav ul li a:hover {
     text-decoration: none;
     color: #D52B1E;
 }
+
+
+@media screen and (max-width: 770px) {
+    nav ul {
+        display: none;
+    }
+}
+

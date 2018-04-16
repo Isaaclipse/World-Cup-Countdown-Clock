@@ -73,20 +73,31 @@ h1{
     text-align: center;
 }
 .instagram-section {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
 }   
 
 .instagram-section ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
     list-style-type: none;
-    margin: 0 auto;
 }
 
 .instagram-section ul li { 
-    width: 320px;
-    float: left;
+    width: 320px; height: auto;
+    /*float: left;*/
     margin-right: 30px;
 }
+
+
+
+@media screen and (max-width: 770px) {
+
+}
+
+@media screen and (max-width: 1090px) {
+    .instagram-section ul li:last-child{ 
+        display: none;
+    }
+}
+
 
