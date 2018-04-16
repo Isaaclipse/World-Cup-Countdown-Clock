@@ -8,7 +8,7 @@ World Cup Countdown site created by:
 * [Jordan](https://github.com/j-falcon122)
 * [Isaac](https://github.com/Isaaclipse)
 
-See the list of contributors who participated in this project [here](https://github.com/your/project/contributors).
+See the list of contributors who participated in this project [here](https://github.com/lehman-webdev/project-1-yurrrrr/graphs/contributors).
 
 👨‍🎓👨‍🎓👨‍🎓  
 
@@ -19,3 +19,7 @@ Our static webpage was built entirely out of HTML, CSS, and Javascript.
 ## Preview 
 
 ![site](https://user-images.githubusercontent.com/23161228/38527358-48e73506-3c28-11e8-8fa8-e368d5b6b059.png)
+
+## Acknowledgments
+
+The favicon is ["World Cup Trophy"](https://thenounproject.com/search/?q=world%20cup&i=54081) by [Chris Kerr](https://thenounproject.com/chrisk3rr/), from the [Noun Project](https://thenounproject.com/). Many thanks, Chris!

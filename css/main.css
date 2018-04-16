@@ -69,10 +69,16 @@ nav ul li a:hover {
     color: #D52B1E;
 }
 
-
 @media screen and (max-width: 770px) {
     nav ul {
         display: none;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    nav ul li {
+        float: none;
+        width: 100%;
     }
 }
 
