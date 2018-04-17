@@ -88,10 +88,19 @@ h1{
     margin-right: 30px;
 }
 
-
-
 @media screen and (max-width: 770px) {
+    #clockdiv{
+        font-size: 3em;
+    }
+}
 
+@media screen and (max-width: 450px) {
+    #clockdiv{
+        font-size: 2em;
+    }
+    .smalltext {
+        font-size: 14px;
+    }
 }
 
 @media screen and (max-width: 1090px) {
