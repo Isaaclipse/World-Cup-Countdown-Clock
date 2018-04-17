@@ -101,6 +101,9 @@ h1{
     .smalltext {
         font-size: 14px;
     }
+    h1 {
+        font-size: 27px;
+    }
 }
 
 @media screen and (max-width: 1090px) {
