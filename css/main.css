@@ -45,6 +45,7 @@ nav ul li a:hover {
     top: 0;
     padding: 10px 10px;
     z-index: 1;
+    background-color: #333333;
 }
 .nav-icon:hover {
     background-color: #333333;
@@ -105,7 +106,7 @@ nav ul li a:hover {
         text-align: center;
         visibility: visible;
         color: white;
-        background-color: #111;
+        background-color: #333333;
         z-index: 1;
     }
 
